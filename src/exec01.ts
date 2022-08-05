@@ -12,8 +12,8 @@ const person1 = {
     name: "leonardo",
     age: 24,
     address:{
-        city: "Viçosa",
-        state: "Ceará"
+        city: "United States",
+        state: "Venice"
     }
 }
 

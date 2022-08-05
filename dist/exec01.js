@@ -1,7 +1,7 @@
 "use strict";
 const person1 = {
     name: "leonardo",
-    age: 15,
+    age: 24,
     address: {
         city: "United States",
         state: "Venice"
@@ -10,6 +10,4 @@ const person1 = {
 function showUserInfo(user) {
     return ` Welcome ${user.name} - ${user.age} - ${user.address.city} - ${user.address.state} `;
 }
-let result = showUserInfo(person1);
-
-console.log(result);
+showUserInfo(person1);
