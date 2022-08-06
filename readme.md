@@ -1,4 +1,5 @@
-<h1> Arquivos de estudos typescript </h1>
+<h1> Arquivos de estudos typescript <img align="center" width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+ </h1>
 
 📌 Motivação
 

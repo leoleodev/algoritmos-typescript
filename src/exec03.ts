@@ -1,12 +1,15 @@
+// variables
+const age: number = 18;
+const player: string = "Leonardo";
+const student: boolean = true;
 
+// arrays
 const arrayNumbers: number[] = [0,10,20,30,40,50,60,70,80,90];
-
 const arrayStrings: string[] = ["carros", "motos", "bicicletas"];
-
 const arrayBoollean: boolean[] = [true, false, false, true];
-
 let arrayTuple: [number[], string[], boolean[]];
 
+// tuple
 arrayTuple = [arrayNumbers, arrayStrings, arrayBoollean];
 
 // Object literals
